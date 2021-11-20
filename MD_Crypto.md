@@ -24,5 +24,8 @@
 # 03. Gente recomendada pa ver
 
 # XX. Imagenes prueba
+<img src="IM_Crypto/IM__MD_001.JPG" alt="drawing" width="200"/>
+
+
 Esta imagen
 ![gatoperro](IM_Crypto/IM__MD_001.JPG)
