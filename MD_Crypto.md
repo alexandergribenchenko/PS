@@ -24,3 +24,4 @@ Aqui van las definiciones generales:
 - **NFT (non-fungible token)**: Los tókenes no fungibles se utilizan para crear una escasez digital verificable,6​ así como brindar una propiedad digital, y la posibilidad de interoperabilidad de los activos en múltiples plataformas.7​ Los TNF se utilizan en varias aplicaciones específicas que requieren artículos digitales únicos, como el criptoarte, los coleccionables digitales y los juegos en línea.
 
 [Go to the Support Web Site](https://support.west-wind.com)
+v
