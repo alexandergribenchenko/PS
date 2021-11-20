@@ -1,7 +1,9 @@
 ## MySQL
 
-#### Q1. When you have a subquery inside of the main query, which query is executed first?
+# 01. Primer nivel
+Aqui van las definiciones generales:
 
+## 01.01. Segundo Nivel
 - [ ] The subquery is never executed. Only the main query is executed.
 - [ ] They are executed at the same time
 - [ ] the main query
