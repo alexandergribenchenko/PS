@@ -25,4 +25,4 @@
 
 # XX. Imagenes prueba
 Esta imagen
-![gatoperro](IM_Cypto/IM__MD_001.jpg)
+![gatoperro](IM_Crypto/IM__MD_001.jpg)
