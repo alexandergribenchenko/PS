@@ -14,7 +14,11 @@
 - [Binance](https://www.binance.com)
 - Crypto
 
-# 02. Conceptos generales
+# 02. Páginas para seguimiento de tendencias de mercado crypto
+- [CoinMarketCap](https://coinmarketcap.com/)
+- Crypto
+
+# 03. Conceptos generales
 
 - **Whitepaper**: documento técnico que explica el ancance general de un proyecto.
 - **Shitcoin**: Se trata de un término despectivo (mierda) con el que se identifica a criptomonedas que no tienen una relevancia real en el mercado de criptomonedas.
