@@ -12,4 +12,4 @@
 - [ ] GATO
 - [ ] They are executed at the same time
 - [x] the main query
-- [] PERRO
+- [ ] PERRO
