@@ -23,5 +23,6 @@
 
 # 03. Gente recomendada pa ver
 
-[Go to the Support Web Site](https://support.west-wind.com)
-v
+# XX. Imagenes prueba
+Esta imagen
+![gatoperro](IM_Cypto/IM__MD_001.jpg)
