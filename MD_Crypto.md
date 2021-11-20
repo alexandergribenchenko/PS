@@ -4,7 +4,11 @@
 - SHIBA INU (Marciano)
 - ECOMI (Marciano)
 - SAITAMA (debate Marciano y Diego Diaz)
-- [ ] PERRO
+
+- Bitcoin (Diego Campos)
+- Ethereum (Diego Campos)
+- Cardano (Diego Campos)
+- Solana (Diego Campos)
 
 # 02. Exchange recomendados para comprar
 - [Binance](https://www.binance.com)
