@@ -30,6 +30,10 @@
 # XX. Imagenes prueba
 <img src="IM_Crypto/IM__MD_001.JPG" alt="drawing" width="800"/>
 
+
+# AA. PPT Imagenes
+[Canvas_Crypto](https://docs.google.com/presentation/d/1FLXmZ7z9m0kmQJTzOe-RIjHnrSqGyrzhcWHnOu-I7jI/edit#slide=id.p)
+
 <!---
 <>Esta imagen
 <>![gatoperro](IM_Crypto/IM__MD_001.JPG)
