@@ -16,7 +16,7 @@
 
 # 02. Páginas para seguimiento de tendencias de mercado crypto
 - [CoinMarketCap](https://coinmarketcap.com/)
-- Crypto
+- [COIN360](https://coin360.com/)
 
 # 03. Conceptos generales
 
